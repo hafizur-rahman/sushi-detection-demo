@@ -1,0 +1,4 @@
+models/*
+training/*
+inference/*
+.ipynb_checkpoints/*
